@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR4d0331/v1
+canonical_location: https://kanripo.org/bkk/KR4d0331/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 鄭菊山先生淸雋集
+  date: '2015-09-12 00:39:09.247175'
+  source:
+    repository: kanripo
+    path: KR4d0331
+  base_edition: SBCK
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0331_000.yaml, hash: 'sha256:74e31f3895f3beb74a91c0d78dd8cb534822c7598b9cd7c0714254ad22d0433c'}
+  - {seq: 1, filename: KR4d0331_001.yaml, hash: 'sha256:60575b3fae7bd04a15c222ee1fae968e305a0831ddf9d400f5cb25c1af82d65f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0331_000.markers.yaml, hash: 'sha256:f0671320c729196b56cebfec4430f5ccd1670da0d7649364efa481a0205c3aab'}
+  - {seq: 1, role: markers, filename: assets/KR4d0331_001.markers.yaml, hash: 'sha256:5c427f9167e801101085a5eace5fcdfcdb73a72bbbc7ac73f1b1afc2f18a2b6e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0331_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 226
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0331_SBCK_001-1a
+    span:
+    - body
+    - 0
+    - 30460
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:fc92fb202a3198fe6e7b43d51d6b03c091a0b3f2b28c11aa2445a3c50d7ac57c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
