@@ -21,10 +21,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR4d0331_000.yaml, hash: 'sha256:74e31f3895f3beb74a91c0d78dd8cb534822c7598b9cd7c0714254ad22d0433c'}
-  - {seq: 1, filename: KR4d0331_001.yaml, hash: 'sha256:0bfe959027a421e11498300621582b76ec47eb67fe4ffbcf98fa6f6bbac1fc8b'}
+  - {seq: 1, filename: KR4d0331_001.yaml, hash: 'sha256:74c83809b54c6c366185cc15eba0a809c14d2738f4d94482e7e73f1122532a47'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR4d0331_000.markers.yaml, hash: 'sha256:ed2e782592be7cb33296a39004b553d87e1cc65cd8b041a65ca163cd2ea2025c'}
-  - {seq: 1, role: markers, filename: assets/KR4d0331_001.markers.yaml, hash: 'sha256:7ab93b93a3b5e9ff8d798df59f5fe9411662094217f7789d3ebf31a0b4b071b1'}
+  - {seq: 1, role: markers, filename: assets/KR4d0331_001.markers.yaml, hash: 'sha256:4e98ef9cff70b310f508a1f9fd8066375a0fda4fc132230899d717761bebc6ea'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,12 +41,12 @@ table_of_contents:
     marker_id: KR4d0331_SBCK_001-1a
     span:
     - body
-    - 0
-    - 30460
+    - 351
+    - 30811
   label: juan 001
   type: section
   level: 1
-hash: sha256:f5f3036d76d8b78d5ce0b77a9bee6f95365a2514dc9026e3d046d0a7aaad7b1c
+hash: sha256:ae7689fe1a5145632cb49f4f57673fe9043ce7e199a178478cfc44c6176d9a95
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
